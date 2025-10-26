@@ -8,5 +8,5 @@
 ## 特别感谢
 感谢 [NianBroken](https://github.com/NianBroken) 开发的原始烟花模拟器项目，为本项目提供了基础框架。
 同时感谢以下项目的启发：
-- [Firework Simulator v2](https://github.com/xxx/xxx)（若有参考可补充）
+- [Firework Simulator v2](https://github.com/xxx/xxx)
 - [haodong108/fireworks-2023](https://github.com/haodong108/fireworks-2023)
